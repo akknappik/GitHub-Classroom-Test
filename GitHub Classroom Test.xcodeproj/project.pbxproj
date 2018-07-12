@@ -15,6 +15,7 @@
 		07AB303620F79D1F00AF911A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07AB303420F79D1F00AF911A /* LaunchScreen.storyboard */; };
 		07AB304120F79D1F00AF911A /* GitHub_Classroom_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07AB304020F79D1F00AF911A /* GitHub_Classroom_TestTests.swift */; };
 		07AB304C20F79D1F00AF911A /* GitHub_Classroom_TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07AB304B20F79D1F00AF911A /* GitHub_Classroom_TestUITests.swift */; };
+		07AB305A20F79DA300AF911A /* asdf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07AB305920F79DA300AF911A /* asdf.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		07AB304720F79D1F00AF911A /* GitHub Classroom TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GitHub Classroom TestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07AB304B20F79D1F00AF911A /* GitHub_Classroom_TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_Classroom_TestUITests.swift; sourceTree = "<group>"; };
 		07AB304D20F79D1F00AF911A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07AB305920F79DA300AF911A /* asdf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				07AB303420F79D1F00AF911A /* LaunchScreen.storyboard */,
 				07AB303720F79D1F00AF911A /* Info.plist */,
 				07AB302F20F79D1F00AF911A /* GitHub_Classroom_Test.xcdatamodeld */,
+				07AB305920F79DA300AF911A /* asdf.swift */,
 			);
 			path = "GitHub Classroom Test";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				07AB303120F79D1F00AF911A /* GitHub_Classroom_Test.xcdatamodeld in Sources */,
 				07AB302B20F79D1F00AF911A /* ViewController.swift in Sources */,
 				07AB302920F79D1F00AF911A /* AppDelegate.swift in Sources */,
+				07AB305A20F79DA300AF911A /* asdf.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
